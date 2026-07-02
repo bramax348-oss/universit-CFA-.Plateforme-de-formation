@@ -1,0 +1,6 @@
+{
+  "name": "Université CFA",
+  "description": "Plateforme web moderne de gestion de formations et parcours d'apprentissage en alternance avec assistant IA éducatif, messagerie et espace formateur.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
