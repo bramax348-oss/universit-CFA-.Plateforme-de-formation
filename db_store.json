@@ -1,0 +1,459 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "title": "Introduction à JavaScript & ES6",
+      "module": "web",
+      "description": "Apprenez les bases de JavaScript moderne, les variables, boucles en ES6+.",
+      "content": "Introduction à JavaScript\n\nJavaScript est un langage de programmation créé en 1995 par Brendan Eich. Il a été développé pour rendre les pages web interactives et dynamiques. Aujourd'hui, JavaScript est l'un des langages les plus utilisés dans le développement web.\n\nAu départ, JavaScript était principalement utilisé pour ajouter des animations, valider les formulaires et réagir aux actions des utilisateurs directement dans le navigateur. Grâce à son évolution et à l'apparition de technologies comme Node.js, JavaScript peut désormais être utilisé aussi bien pour le développement frontend (interface utilisateur) que backend (serveur).\n\nJavaScript fonctionne avec HTML et CSS :\n\nHTML définit la structure de la page.\nCSS gère la présentation et le design.\nJavaScript ajoute l'interactivité et le comportement dynamique.\n\nGrâce à JavaScript, il est possible de créer des applications web modernes, des sites interactifs, des jeux, des applications mobiles et même des applications de bureau.\n\nCaractéristiques de JavaScript\nLangage interprété, exécuté directement par le navigateur.\nOrienté objet et basé sur les prototypes.\nCompatible avec tous les navigateurs modernes.\nFacile à apprendre pour les débutants.\nTrès rapide grâce aux moteurs JavaScript modernes.\nPossède une immense communauté et un grand nombre de bibliothèques et de frameworks.\nDomaines d'utilisation\n\nJavaScript est utilisé dans plusieurs domaines :\n\nDéveloppement de sites web interactifs.\nDéveloppement d'applications web.\nDéveloppement backend avec Node.js.\nDéveloppement d'applications mobiles (React Native).\nDéveloppement d'applications de bureau (Electron).\nCréation de jeux et d'applications en temps réel.\nAvantages de JavaScript\nFacile à apprendre et à utiliser.\nExécution rapide côté client.\nCompatible avec toutes les plateformes modernes.\nGrande communauté de développeurs.\nNombreuses bibliothèques et frameworks disponibles (React, Vue.js, Angular, Express.js, etc.).\nPermet de développer une application complète avec un seul langage.\nConclusion\n\nJavaScript est aujourd'hui un langage incontournable dans le développement informatique. Sa simplicité, sa flexibilité et sa puissance permettent de créer des applications modernes, performantes et interactives. Maîtriser JavaScript constitue une compétence essentielle pour tout développeur web souhaitant concevoir des applications professionnelles.",
+      "duration": 3,
+      "author": "Mme Sophie ",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    },
+    {
+      "id": "c2",
+      "title": "Maîtriser les Composants et Hooks React",
+      "module": "web",
+      "description": "Comprenez la gestion d'état locale avec useState, et les cycles de vie avec useEffect.",
+      "content": "\n          <h3>Rentrez dans l'ère de React !</h3>\n          <p>React est la bibliothèque JavaScript la plus populaire développée par Facebook pour concevoir des interfaces utilisateur par composants réutilisables.</p>\n          <br/>\n          <h4>Les deux piliers de vos composants :</h4>\n          <ul class=\"list-disc pl-5 my-2\">\n            <li><strong>Le State (useState) :</strong> Représente l'état local variable de votre interface. En changeant d'état, React redessine automatiquement les éléments modifiés !</li>\n            <li><strong>Les Props :</strong> Des paramètres passés aux composants de haut en bas, immuables de l'intérieur de l'enfant.</li>\n          </ul>\n          <br/>\n          <h4>Le Hook useEffect d'évitement d'effets secondaires :</h4>\n          <p>Permet d'exécuter du code à l'apparition, la disparition ou le changement de dépendances dans un composant (comme un appel API ou la synchronisation de données).</p>\n        ",
+      "duration": 5,
+      "author": "Mme Mendrika",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    },
+    {
+      "id": "c3",
+      "title": "Introduction de base au Marketing Digital & SEO",
+      "module": "marketing",
+      "description": "Optimisez la visibilité d'un site sur les moteurs de recherche via le référencement naturel.",
+      "content": "\n          <h3>Qu'est-ce que le SEO ?</h3>\n          <p>Le SEO (Search Engine Optimization) consiste à positionner les pages d'un site web dans les premiers résultats naturels des moteurs de recherche (Google, Bing).</p>\n          <br/>\n          <h4>Les 3 piliers du référencement naturel :</h4>\n          <ol class=\"list-decimal pl-5 my-2\">\n            <li><strong>La Technique :</strong> Vitesse de chargement de la page, optimisation mobile et propreté du code HTML.</li>\n            <li><strong>Le Contenu :</strong> Des mots-clés pertinents, bien structurés avec des balises h1, h2, h3 et répondant fidèlement aux intentions de recherche des internautes.</li>\n            <li><strong>Le Netlinking :</strong> La popularité globale acquise par des liens de qualité provenant d'autres sites vers le vôtre.</li>\n          </ol>\n        ",
+      "duration": 4,
+      "author": "M. Kevine",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    },
+    {
+      "id": "c4",
+      "title": "Principes fondateurs de la Cybersécurité",
+      "module": "securite",
+      "description": "Découvrez les bases de la sécurisation des applications, cryptage et pare-feux.",
+      "content": "\n          <h3>Introduction à la sécurité de l'information</h3>\n          <p>La cybersécurité consiste à protéger les ordinateurs, réseaux, programmes et données contre les attaques de tierces personnes malveillantes.</p>\n          <br/>\n          <h4>La Triade CIA (Confientialité, Intégrité, Disponibilité) :</h4>\n          <ul class=\"list-disc pl-5 my-2\">\n            <li><strong>Confidentialité :</strong> Prévenir l'exposition de données sensibles à des personnes non autorisées.</li>\n            <li><strong>Intégrité :</strong> S'assurer que les données ne soient pas altérées ou corrompues en transit.</li>\n            <li><strong>Disponibilité :</strong> Garantir l'accès légitime et continu des utilisateurs à leurs systèmes.</li>\n          </ul>\n        ",
+      "duration": 4,
+      "author": "Mr Martin",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    },
+    {
+      "id": "c_1781867451707",
+      "title": "python",
+      "module": "web",
+      "description": "learn",
+      "content": "Python : Introduction et notions fondamentales\nIntroduction\n\nPython est un langage de programmation interprété, créé en 1991 par Guido van Rossum. Il est reconnu pour sa simplicité, sa lisibilité et sa facilité d'apprentissage. Grâce à ces qualités, Python est devenu l'un des langages les plus utilisés dans le monde de l'informatique.\n\nAujourd'hui, Python est employé dans de nombreux domaines tels que le développement web, l'intelligence artificielle, l'analyse de données, la cybersécurité, l'automatisation des tâches et le développement d'applications.\n\nL'objectif principal de Python est de permettre aux développeurs d'écrire des programmes clairs, compréhensibles et efficaces avec un minimum de complexité.\n\nLes caractéristiques de Python\n\nPython possède plusieurs caractéristiques qui expliquent sa popularité :\n\nC'est un langage simple et facile à lire.\nIl est compatible avec plusieurs systèmes d'exploitation comme Windows, Linux et macOS.\nIl dispose d'une grande bibliothèque de modules et de fonctions.\nIl permet un développement rapide des applications.\nIl est utilisé aussi bien par les débutants que par les professionnels.\nLa structure d'un programme Python\n\nUn programme Python est constitué d'une suite d'instructions exécutées dans l'ordre où elles sont écrites.\n\nL'instruction la plus simple consiste à afficher un message à l'écran grâce à la fonction print().\n\nExemple :\n\nprint(\"Bonjour le monde\")\n\nCette instruction affiche le texte « Bonjour le monde » à l'écran.\n\nLes variables\n\nUne variable est un espace mémoire permettant de stocker une valeur qui pourra être utilisée ultérieurement dans le programme.\n\nExemple :\n\nnom = \"Jean\"\nage = 20\n\nDans cet exemple :\n\nnom contient une chaîne de caractères.\nage contient un nombre entier.\n\nLes variables facilitent la gestion et la réutilisation des données dans un programme.\n\nLes types de données\n\nPython propose plusieurs types de données fondamentaux.\n\nLes chaînes de caractères (String)\n\nUne chaîne de caractères représente un texte.\n\nnom = \"Python\"\nLes nombres entiers (Integer)\n\nLes nombres entiers sont utilisés pour représenter des valeurs numériques sans décimales.\n\nage = 18\nLes nombres décimaux (Float)\n\nLes nombres décimaux contiennent une partie fractionnaire.\n\ntaille = 1.75\nLes booléens (Boolean)\n\nLes booléens permettent de représenter une valeur logique.\n\nTrue\nFalse\n\nCes valeurs sont principalement utilisées dans les tests et les conditions.\n\nLa saisie des données\n\nPour interagir avec l'utilisateur, Python utilise la fonction input().\n\nExemple :\n\nnom = input(\"Entrez votre nom : \")\n\nCette instruction attend que l'utilisateur saisisse une valeur au clavier avant de poursuivre l'exécution du programme.\n\nLes opérateurs arithmétiques\n\nPython permet d'effectuer différentes opérations mathématiques.\n\nOpérateur\tFonction\n+\tAddition\n-\tSoustraction\n*\tMultiplication\n/\tDivision\n%\tModulo\n**\tPuissance\n\nExemple :\n\na = 10\nb = 5\n\nprint(a + b)\nprint(a - b)\nprint(a * b)\nprint(a / b)\nLes conditions\n\nLes conditions permettent au programme de prendre des décisions selon certaines situations.\n\nLa structure générale est :\n\nif condition:\n    instruction\n\nExemple :\n\nage = 20\n\nif age >= 18:\n    print(\"Vous êtes majeur\")\n\nPour gérer plusieurs possibilités, on utilise elif et else.\n\nnote = 14\n\nif note >= 16:\n    print(\"Très bien\")\nelif note >= 10:\n    print(\"Admis\")\nelse:\n    print(\"Ajourné\")\nLes boucles\n\nLes boucles permettent de répéter plusieurs fois une même série d'instructions.\n\nLa boucle for\n\nLa boucle for est utilisée lorsque le nombre de répétitions est connu.\n\nfor i in range(5):\n    print(i)\n\nCette boucle affiche les nombres de 0 à 4.\n\nLa boucle while\n\nLa boucle while répète les instructions tant qu'une condition reste vraie.\n\ni = 1\n\nwhile i <= 5:\n    print(i)\n    i += 1\n\nCette boucle affiche les nombres de 1 à 5.\n\nLes fonctions\n\nUne fonction est un bloc d'instructions conçu pour accomplir une tâche précise et pouvant être réutilisé plusieurs fois.\n\nExemple :\n\ndef saluer():\n    print(\"Bonjour\")\n\nPour exécuter la fonction :\n\nsaluer()\n\nUne fonction peut également recevoir des paramètres :\n\ndef saluer(nom):\n    print(\"Bonjour\", nom)\n\nsaluer(\"Jean\")\n\nLes fonctions améliorent l'organisation et la réutilisation du code.\n\nLes listes\n\nUne liste permet de stocker plusieurs éléments dans une seule variable.\n\nExemple :\n\nfruits = [\"Pomme\", \"Banane\", \"Orange\"]\n\nPour accéder à un élément :\n\nprint(fruits[0])\n\nRésultat :\n\nPomme\n\nLes listes sont très utilisées pour manipuler des collections de données.\n\nConclusion\n\nPython est un langage de programmation moderne, puissant et accessible. Grâce à sa syntaxe simple et à ses nombreuses fonctionnalités, il constitue un excellent choix pour l'apprentissage de la programmation ainsi que pour le développement de projets professionnels. La maîtrise des notions fondamentales telles que les variables, les types de données, les conditions, les boucles, les fonctions et les listes représente une étape essentielle avant d'aborder des concepts plus avancés comme les bases de données, le développement web, la programmation orientée objet et l'intelligence artificielle.",
+      "duration": 1.5,
+      "author": "kevine",
+      "createdAt": "2026-06-19T11:10:51.707Z",
+      "completedBy": [
+        "Njaka"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "title": "Création d'une fonction ES6 de calcul",
+      "module": "web",
+      "statement": "Écrivez une fonction fléchée JavaScript nommée 'calculerRemise' prenant en paramètres un prix brut (nombre) et un taux de remise en pourcentage (ex: 20 pour 20%), et retournant le prix net final calculé.",
+      "hint": "Formule: prixBrut - (prixBrut * (taux / 100))",
+      "solution": "const calculerRemise = (prixBrut, taux) => prixBrut * (1 - taux / 100);",
+      "difficulty": "debutant",
+      "time": 15,
+      "author": "Mme Sophie Bernard",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": [
+        "Njaka"
+      ]
+    },
+    {
+      "id": "ex2",
+      "title": "Instanciation de State dans React",
+      "module": "web",
+      "statement": "Écrivez le code React d'un composant simple appelé 'Compteur' avec un bouton. Chaque clic sur le bouton doit incrémenter un compteur local de 1 et l'afficher à l'écran.",
+      "hint": "Utilisez le hook useState initialisé à 0, et l'événement onClick.",
+      "solution": "const [compteur, setCompteur] = useState(0);\n// Dans le JSX:\n<button onClick={() => setCompteur(compteur + 1)}>Total: {compteur}</button>",
+      "difficulty": "intermediaire",
+      "time": 25,
+      "author": "Mme Sophie Bernard",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": [
+        "Njaka"
+      ]
+    },
+    {
+      "id": "ex3",
+      "title": "Balise Alt : Alt-text check",
+      "module": "marketing",
+      "statement": "Quelle propriété sur une balise d'image HTML <img> est absolument indispensable pour l'accessibilité SEO ?",
+      "hint": "Elle fournit une description textuelle de l'image pour les robots Google et synthétiseurs vocaux.",
+      "solution": "L'attribut alt (ex: <img src='logo.png' alt='Logo de notre école Université CFA'>)",
+      "difficulty": "debutant",
+      "time": 10,
+      "author": "M. Kevine",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    }
+  ],
+  "videos": [
+    {
+      "id": "v2",
+      "title": "React de zéro en 15 minutes",
+      "module": "web",
+      "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+      "description": "Guide condensé pour installer, initialiser et composer ses premières vues virtuelles en React.js.",
+      "duration": 15,
+      "prerequisites": "JavaScript ES6 (variables, objets, fonctions, maps)",
+      "author": "Mme Sophie Bernard",
+      "createdAt": "2026-06-11T05:37:21.192Z",
+      "completedBy": []
+    },
+    {
+      "id": "v_1782198488344",
+      "title": "cloud computing",
+      "module": "Cloud",
+      "url": "https://youtube.com/embed/Cd82kSqYzH4",
+      "description": "avantage",
+      "duration": 18,
+      "prerequisites": "connaissance de la base en informatique",
+      "author": "Finaritra",
+      "createdAt": "2026-06-23T07:08:08.344Z",
+      "completedBy": [
+        "Njaka"
+      ]
+    },
+    {
+      "id": "v_1782198689923",
+      "title": "Developpement web",
+      "module": "web",
+      "url": "https://youtube.com/embed/hSibQdA2LSw",
+      "description": "avantage",
+      "duration": 5,
+      "prerequisites": "connaissance de base",
+      "author": "Finaritra",
+      "createdAt": "2026-06-23T07:11:29.923Z",
+      "completedBy": [
+        "Njaka"
+      ]
+    },
+    {
+      "id": "v_1782198897374",
+      "title": "marketing digital",
+      "module": "marketing",
+      "url": "https://youtube.com/embed/i0Dpx_aiDQk",
+      "description": "avantage",
+      "duration": 6,
+      "prerequisites": "connaissance de base informatique",
+      "author": "Finaritra",
+      "createdAt": "2026-06-23T07:14:57.374Z",
+      "completedBy": []
+    },
+    {
+      "id": "v_1782199057660",
+      "title": "cybersecurite",
+      "module": "securite",
+      "url": "https://youtube.com/embed/a_vzzK6YXME",
+      "description": "Avantage",
+      "duration": 14,
+      "prerequisites": "connaissance de base",
+      "author": "Finaritra",
+      "createdAt": "2026-06-23T07:17:37.660Z",
+      "completedBy": []
+    },
+    {
+      "id": "v_1782199216848",
+      "title": "Data science ",
+      "module": "data",
+      "url": "https://youtube.com/embed/XHmp9lDcQDw",
+      "description": "AVANTAGE",
+      "duration": 14,
+      "prerequisites": "connaissance de base",
+      "author": "Finaritra",
+      "createdAt": "2026-06-23T07:20:16.848Z",
+      "completedBy": []
+    }
+  ],
+  "stats": {
+    "username": "etudiant",
+    "hoursDone": 162,
+    "hoursTotal": 350,
+    "validatedModules": 4,
+    "maxModules": 12,
+    "companyName": "TechSolutions International",
+    "tutorName": "M. Martin Dubois",
+    "nextCourse": "Développement Web Avancé (Mme Sophie Bernard)",
+    "courseLocation": "Salle Informatique B205, Bâtiment d'Ingénierie",
+    "activities": [
+      {
+        "id": "act_1782974024930",
+        "text": "Vidéo \"Developpement web\" regardée !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1782973982214",
+        "text": "Vidéo \"cloud computing\" regardée !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1782973397444",
+        "text": "Exercice \"Instanciation de State dans React\" complété !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1782746307285",
+        "text": "Exercice \"Création d'une fonction ES6 de calcul\" complété !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1782199216849",
+        "text": "Nouvelle vidéo éducative : \"Data science \" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782199057662",
+        "text": "Nouvelle vidéo éducative : \"cybersecurite\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782198897375",
+        "text": "Nouvelle vidéo éducative : \"marketing digital\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782198689924",
+        "text": "Nouvelle vidéo éducative : \"Developpement web\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782198488346",
+        "text": "Nouvelle vidéo éducative : \"cloud computing\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782197992337",
+        "text": "Nouvelle vidéo éducative : \"cloud computing\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782197538878",
+        "text": "Nouvelle vidéo éducative : \"cloud computing\" publiée !",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1782142901609",
+        "text": "Cours \"Cloud\" marqué comme complété !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1782142882827",
+        "text": "Nouveau cours disponible : \"Cloud\" publié par Mr Haja.",
+        "date": "À l'instant",
+        "icon": "book"
+      },
+      {
+        "id": "act_1782140891212",
+        "text": "Enregistrement de +7h d'apprentissage validées en alternance.",
+        "date": "À l'instant",
+        "icon": "plus"
+      },
+      {
+        "id": "act_1781868051675",
+        "text": "Vidéo \"Les Bases Absolues de JavaScript Moderne\" regardée !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1781867522384",
+        "text": "Cours \"python\" marqué comme complété !",
+        "date": "À l'instant",
+        "icon": "check"
+      },
+      {
+        "id": "act_1781867451709",
+        "text": "Nouveau cours disponible : \"python\" publié par kevine.",
+        "date": "À l'instant",
+        "icon": "book"
+      },
+      {
+        "id": "act_1781864442585",
+        "text": "Vidéo \"Les Bases Absolues de JavaScript Moderne\" regardée !",
+        "date": "À l'instant",
+        "icon": "check"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "id": "m1",
+      "from": "formateur_web",
+      "to": "etudiant",
+      "content": "Bonjour ! J'ai bien reçu votre premier exercice. Excellent travail ! Vous avez utilisé de manière parfaite les fonctions fléchées ES6. N'hésitez pas à attaquer le module React dès demain.",
+      "timestamp": "2026-06-10T14:30:00.000Z",
+      "subject": "Félicitations sur votre exercice",
+      "fromName": "Mme Sophie Bernard",
+      "fromRole": "formateur"
+    },
+    {
+      "id": "m2",
+      "from": "formateur_principal",
+      "to": "etudiant",
+      "content": "Avis à tous les apprentis, n'oubliez pas de déposer vos rapports mensuels d'alternance signés par vos tuteurs avant la fin de la semaine.",
+      "timestamp": "2026-06-09T09:15:00.000Z",
+      "subject": "Rappel : Rapports mensuels obligatoires",
+      "fromName": "M. Bernard (Directeur Pédagogique)",
+      "fromRole": "formateur"
+    },
+    {
+      "id": "msg_1781157742495",
+      "from": "etudiant",
+      "to": "Mme Sophie Bernard",
+      "content": "salut",
+      "timestamp": "2026-06-11T06:02:22.495Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1781157759034",
+      "from": "etudiant",
+      "to": "Mme Sophie Bernard",
+      "content": "salut",
+      "timestamp": "2026-06-11T06:02:39.034Z",
+      "subject": "Sujet d'étude",
+      "fromName": "M. Jean Olivier Andrianirina",
+      "fromRole": "admin"
+    },
+    {
+      "id": "msg_1781864511024",
+      "from": "etudiant",
+      "to": "formateur_marketing",
+      "content": "salut",
+      "timestamp": "2026-06-19T10:21:51.024Z",
+      "subject": "Fondation",
+      "fromName": "Olivier",
+      "fromRole": "admin"
+    },
+    {
+      "id": "msg_1781864569774",
+      "from": "etudiant",
+      "to": "etudiant",
+      "content": "bonjour",
+      "timestamp": "2026-06-19T10:22:49.774Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1781868129998",
+      "from": "etudiant",
+      "to": "Olivier",
+      "content": "salut",
+      "timestamp": "2026-06-19T11:22:09.998Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1781868160086",
+      "from": "etudiant",
+      "to": "formateur_marketing",
+      "content": "salut",
+      "timestamp": "2026-06-19T11:22:40.086Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1782112638339",
+      "from": "etudiant",
+      "to": "Apprenti Émule",
+      "content": "bonjour",
+      "timestamp": "2026-06-22T07:17:18.339Z",
+      "subject": "Sujet d'étude",
+      "fromName": "M.Kevine",
+      "fromRole": "admin"
+    },
+    {
+      "id": "msg_1782140944024",
+      "from": "etudiant",
+      "to": "Apprenti Émule",
+      "content": "Tout va bien?",
+      "timestamp": "2026-06-22T15:09:04.024Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1782141024602",
+      "from": "etudiant",
+      "to": "formateur_marketing",
+      "content": "Bonjour\n",
+      "timestamp": "2026-06-22T15:10:24.602Z",
+      "subject": "FONDATION",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1782141024612",
+      "from": "etudiant",
+      "to": "formateur_marketing",
+      "content": "Bonjour\n",
+      "timestamp": "2026-06-22T15:10:24.612Z",
+      "subject": "FONDATION",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1782141104451",
+      "from": "etudiant",
+      "to": "Apprenti Émule",
+      "content": "cv",
+      "timestamp": "2026-06-22T15:11:44.451Z",
+      "subject": "Sujet d'étude",
+      "fromName": "M.Kevine",
+      "fromRole": "admin"
+    },
+    {
+      "id": "msg_1782141154041",
+      "from": "etudiant",
+      "to": "Apprenti Émule",
+      "content": "oui cv et toi",
+      "timestamp": "2026-06-22T15:12:34.041Z",
+      "subject": "Sujet d'étude",
+      "fromName": "Apprenti Émule",
+      "fromRole": "etudiant"
+    },
+    {
+      "id": "msg_1782197289377",
+      "from": "etudiant",
+      "to": "Apprenti Émule",
+      "content": "cv",
+      "timestamp": "2026-06-23T06:48:09.377Z",
+      "subject": "Sujet d'étude",
+      "fromName": "M.Kevine",
+      "fromRole": "admin"
+    }
+  ],
+  "contacts": [],
+  "candidacies": []
+}
